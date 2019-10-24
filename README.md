@@ -27,6 +27,6 @@ Requires:
 1. Alias bash (you should replace the first path with yours)
     1. `echo alias etscheck='~/miniconda3/envs/autochecker/bin/python ~/autochecker/main.py' >> .bash_profile`
     1. Reload your shell.
-    1. then you can just run `etscheck` to turn on/off your tracking time.
+    1. then you can just run `check` to turn on/off your tracking time.
 
 
